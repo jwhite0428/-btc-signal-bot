@@ -1,0 +1,1 @@
+streamlit>=1.40\nccxt>=4.4\npandas>=2.2\nplotly>=5.24\n
