@@ -1,0 +1,5 @@
+streamlit>=1.40,<2
+streamlit-autorefresh>=1.0.1
+requests>=2.32
+pandas>=2.2
+plotly>=5.24
