@@ -1,1 +1,0 @@
-SENTINEL quote fix: Parses Kalshi orderbook_fp, orderbook_dollars, and legacy orderbook envelopes. Handles cent-based and dollar-based prices and pauses trading when bids are missing. Does not manufacture quotes. Replace app.py and requirements.txt in your repository root. Streamlit deploys automatically. Simulated trades only. Live API integration not tested in this environment.
